@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"视觉稿-设置界面.html",
+  "generationDate":new Date(1403437205112.23),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"729ce2eec19847d99144b8d27ca5269e",
+    "type":"Axure:Page",
+    "name":"视觉稿-设置界面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"63727ea53de649dcae13ea03e1b9fcdf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":840,
+              "height":661}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0f1881a4a66a497d857922c6bfd8487f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":840,
+                  "height":661}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/视觉稿-设置界面/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "63727ea53de649dcae13ea03e1b9fcdf":{
+      "scriptId":"u0"},
+    "0f1881a4a66a497d857922c6bfd8487f":{
+      "scriptId":"u1"}}});
