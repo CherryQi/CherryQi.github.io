@@ -9,31 +9,261 @@
     "hideAddress":false,
     "preventScroll":false,
     "useLabels":false,
-    "enabledViewIds":["a",
-"b",
-"c"],
+    "enabledViewIds":[],
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"Home",
+        "pageName":"app",
         "type":"Wireframe",
-        "url":"home.html",
+        "url":"app.html",
         "children":[{
-            "pageName":"ARC more1",
-            "type":"Wireframe",
-            "url":"arc_more1.html"},
+            "pageName":"多方通话-20131107",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"登录",
+                "type":"Wireframe",
+                "url":"登录.html"},
 {
-            "pageName":"ARC more2",
-            "type":"Wireframe",
-            "url":"arc_more2.html"},
+                "pageName":"注册",
+                "type":"Wireframe",
+                "url":"注册.html"},
 {
-            "pageName":"ARC more3",
-            "type":"Wireframe",
-            "url":"arc_more3.html"},
+                "pageName":"发起预约音频通话",
+                "type":"Wireframe",
+                "url":"发起预约音频通话.html"},
 {
-            "pageName":"gif more",
-            "type":"Wireframe",
-            "url":"gif_more.html"}]}]},
+                "pageName":"发起即时通话",
+                "type":"Wireframe",
+                "url":"发起即时通话.html"},
+{
+                "pageName":"接收即时通话-无自定义头像",
+                "type":"Wireframe",
+                "url":"接收即时通话-无自定义头像.html",
+                "children":[{
+                    "pageName":"接收即时通话-有自定义头像",
+                    "type":"Wireframe",
+                    "url":"接收即时通话-有自定义头像.html"}]},
+{
+                "pageName":"接收预约音频通话",
+                "type":"Wireframe",
+                "url":"接收预约音频通话.html"},
+{
+                "pageName":"通话记录",
+                "type":"Wireframe",
+                "url":"通话记录.html"},
+{
+                "pageName":"视频方案",
+                "type":"Wireframe",
+                "url":"视频方案.html"},
+{
+                "pageName":"联系人",
+                "type":"Wireframe",
+                "url":"联系人.html"},
+{
+                "pageName":"键盘",
+                "type":"Wireframe",
+                "url":"键盘.html"},
+{
+                "pageName":"设置",
+                "type":"Wireframe",
+                "url":"设置.html"},
+{
+                "pageName":"新手引导",
+                "type":"Wireframe",
+                "url":"新手引导.html"}]},
+{
+            "pageName":"印度即时通话-20130816",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"方案3",
+                "type":"Wireframe",
+                "url":"方案3.html"}]},
+{
+            "pageName":"NATIVE-20130916",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"设计说明",
+                "type":"Wireframe",
+                "url":"设计说明.html"},
+{
+                "pageName":"Home",
+                "type":"Wireframe",
+                "url":"home.html",
+                "children":[{
+                    "pageName":"Home展开",
+                    "type":"Wireframe",
+                    "url":"home__.html"},
+{
+                    "pageName":"Home关闭",
+                    "type":"Wireframe",
+                    "url":"home___1.html"},
+{
+                    "pageName":"My profile",
+                    "type":"Wireframe",
+                    "url":"my_profile.html"},
+{
+                    "pageName":"more",
+                    "type":"Wireframe",
+                    "url":"more.html"},
+{
+                    "pageName":"contacts",
+                    "type":"Wireframe",
+                    "url":"contacts.html"},
+{
+                    "pageName":"recents",
+                    "type":"Wireframe",
+                    "url":"recents.html"},
+{
+                    "pageName":"favorites",
+                    "type":"Wireframe",
+                    "url":"favorites.html"},
+{
+                    "pageName":"call+",
+                    "type":"Wireframe",
+                    "url":"call_.html"},
+{
+                    "pageName":"message+",
+                    "type":"Wireframe",
+                    "url":"message_.html"},
+{
+                    "pageName":"key board+",
+                    "type":"Wireframe",
+                    "url":"key_board_.html"},
+{
+                    "pageName":"video+",
+                    "type":"Wireframe",
+                    "url":"video_.html"},
+{
+                    "pageName":"messages",
+                    "type":"Wireframe",
+                    "url":"messages.html"},
+{
+                    "pageName":"profile",
+                    "type":"Wireframe",
+                    "url":"profile.html"},
+{
+                    "pageName":"chat",
+                    "type":"Wireframe",
+                    "url":"chat.html"}]}]},
+{
+            "pageName":"企业服务超市手机客户端-20131101",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"手机客户端-首页",
+                "type":"Wireframe",
+                "url":"手机客户端-首页.html"},
+{
+                "pageName":"金融",
+                "type":"Wireframe",
+                "url":"金融.html",
+                "children":[{
+                    "pageName":"产品详情页",
+                    "type":"Wireframe",
+                    "url":"产品详情页.html"}]},
+{
+                "pageName":"信息化产品",
+                "type":"Wireframe",
+                "url":"信息化产品.html",
+                "children":[{
+                    "pageName":"产品详情页",
+                    "type":"Wireframe",
+                    "url":"产品详情页_1.html"},
+{
+                    "pageName":"专家把脉",
+                    "type":"Wireframe",
+                    "url":"专家把脉.html"},
+{
+                    "pageName":"企业管家-标签展示页--详情页",
+                    "type":"Wireframe",
+                    "url":"企业管家-标签展示页--详情页.html"},
+{
+                    "pageName":"信息化大讲堂-信息列表页--详情页",
+                    "type":"Wireframe",
+                    "url":"信息化大讲堂-信息列表页--详情页.html"}]},
+{
+                "pageName":"办公服务",
+                "type":"Wireframe",
+                "url":"办公服务.html",
+                "children":[{
+                    "pageName":"商品详情",
+                    "type":"Wireframe",
+                    "url":"商品详情.html"}]},
+{
+                "pageName":"办公用品",
+                "type":"Wireframe",
+                "url":"办公用品.html",
+                "children":[{
+                    "pageName":"商品详情",
+                    "type":"Wireframe",
+                    "url":"商品详情_1.html"}]},
+{
+                "pageName":"顾问引导页",
+                "type":"Wireframe",
+                "url":"顾问引导页.html"},
+{
+                "pageName":"我的信息化门户",
+                "type":"Wireframe",
+                "url":"我的信息化门户.html"},
+{
+                "pageName":"登录、注册",
+                "type":"Wireframe",
+                "url":"登录、注册.html"},
+{
+                "pageName":"我的超市",
+                "type":"Wireframe",
+                "url":"我的超市.html",
+                "children":[{
+                    "pageName":"我的订单",
+                    "type":"Wireframe",
+                    "url":"我的订单.html"},
+{
+                    "pageName":"退换货管理",
+                    "type":"Wireframe",
+                    "url":"退换货管理.html"},
+{
+                    "pageName":"我的收藏",
+                    "type":"Wireframe",
+                    "url":"我的收藏.html"}]},
+{
+                "pageName":"购买流程（购物车）",
+                "type":"Wireframe",
+                "url":"购买流程（购物车）.html"}]},
+{
+            "pageName":"企业办公产品-20130730",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"侧栏",
+                "type":"Wireframe",
+                "url":"侧栏.html"},
+{
+                "pageName":"信箱",
+                "type":"Wireframe",
+                "url":"信箱.html"},
+{
+                "pageName":"网盘",
+                "type":"Wireframe",
+                "url":"网盘.html"},
+{
+                "pageName":"通讯录",
+                "type":"Wireframe",
+                "url":"通讯录.html"},
+{
+                "pageName":"提醒",
+                "type":"Wireframe",
+                "url":"提醒.html"}]}]},
+{
+        "pageName":"WEB",
+        "type":"Wireframe",
+        "url":"web.html",
+        "children":[{
+            "pageName":"Folder",
+            "type":"Folder",
+            "url":""}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
@@ -42,33 +272,11 @@
       "width":0,
       "height":0},
     "condition":"<="},
-  "adaptiveViews":[{
-      "id":"a",
-      "name":"Landscape Tablet",
-      "size":{
-        "width":1024,
-        "height":0},
-      "condition":"<="},
-{
-      "id":"b",
-      "name":"Portrait Tablet",
-      "baseViewId":"a",
-      "size":{
-        "width":768,
-        "height":0},
-      "condition":"<="},
-{
-      "id":"c",
-      "name":"Landscape Phone",
-      "baseViewId":"b",
-      "size":{
-        "width":480,
-        "height":0},
-      "condition":"<="}],
+  "adaptiveViews":[],
   "stylesheet":{
     "defaultStyles":{
       "buttonShape":{
-        "id":"e4e2a238747f46edad55da4f22490bf7",
+        "id":"e8d61c3e331b47e3a46bfdb50475dbb3",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -127,7 +335,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "paragraph":{
-        "id":"f7d29667387d4d5ca7a88e75e539e9b2",
+        "id":"858b585cffcc4dfabbf658389655c6b5",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -186,7 +394,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "h1":{
-        "id":"9401f5d36eb541d58ba71f3bf9743d22",
+        "id":"ddc35c361e6a4d0d932c2b078406378f",
         "fontName":"'Arial Negreta', 'Arial'",
         "fontSize":"32px",
         "fontWeight":"700",
@@ -245,7 +453,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "h2":{
-        "id":"e7a651c676e04e66b85c2e6e8a67cf84",
+        "id":"963bf0bc1aba47d693027d89f71a70ff",
         "fontName":"'Arial Negreta', 'Arial'",
         "fontSize":"24px",
         "fontWeight":"700",
@@ -304,7 +512,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "h3":{
-        "id":"0f00d1d393f949d3b85237b32f69b6ee",
+        "id":"1c26c91373d0455e9df67d36f4b5920f",
         "fontName":"'Arial Negreta', 'Arial'",
         "fontSize":"18px",
         "fontWeight":"700",
@@ -363,7 +571,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "h4":{
-        "id":"55eaa35f172546b7af6a8003f7d7d314",
+        "id":"33d8c9a92d514f35a81815bf189194cd",
         "fontName":"'Arial Negreta', 'Arial'",
         "fontSize":"14px",
         "fontWeight":"700",
@@ -422,7 +630,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "h5":{
-        "id":"48fda963fa7d4740a2b51252d7e6ba43",
+        "id":"2dcf52b292284e469de1831b69aa4050",
         "fontName":"'Arial Negreta', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"700",
@@ -481,7 +689,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "h6":{
-        "id":"b6f455d24b2343a6b6545a6403c5d608",
+        "id":"e75c1d01a813418496cd1f9c7a0dc6b0",
         "fontName":"'Arial Negreta', 'Arial'",
         "fontSize":"10px",
         "fontWeight":"700",
@@ -540,7 +748,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "imageBox":{
-        "id":"2647773204ab45da8f84ca0c6f636353",
+        "id":"6911c9f51faf4d3e879dcb434775cf4c",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -599,7 +807,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "hyperlink":{
-        "id":"f092de9359ac4587b5779a8792aa7cf9",
+        "id":"a9aa4915523d45ffb41f8d38ca56bf86",
         "foreGroundFill":{
           "fillType":"solid",
           "color":0xFF0000FF,
@@ -613,12 +821,12 @@
         "visible":true,
         "limbo":false},
       "hyperlinkMouseOver":{
-        "id":"9107242b81e9475885baf6defb840c13",
+        "id":"e77c5ac8bcc4461880a17dda331eadf0",
         "underline":true},
       "hyperlinkMouseDown":{
-        "id":"340f8dd907974b1ca62eff74fceeb3c9"},
+        "id":"9ef0b9f7365e41c795271a174cb0b5cb"},
       "textBox":{
-        "id":"60f7556a44574239839b267896e3d9b9",
+        "id":"842c4c50059147ef892883cc58f82bc3",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -677,7 +885,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "textArea":{
-        "id":"7c788f5c14e34e308437a2e0e46e66da",
+        "id":"283d486f9d0a4859bf8b4b95fd28ca61",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -736,7 +944,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "comboBox":{
-        "id":"e65875b211ec45ecb29b7a3a3e477667",
+        "id":"c62ac1164e6f4e5a9d09084fc975b2ad",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -795,7 +1003,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "listBox":{
-        "id":"f076dfd5ac5944ab9a0f33a1a0d95407",
+        "id":"280b5a10cb3441fbbfc2ff5207133b64",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -854,7 +1062,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "checkbox":{
-        "id":"e8180c3af10a4037a9577ac4bc7df3a5",
+        "id":"74f050d57c364a88b73c8921bda5c0ff",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -913,7 +1121,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "radioButton":{
-        "id":"510052c4344443e18c6cc8fd8c847a9d",
+        "id":"d223447357a9475aa6c0c7adad2e1f3e",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -972,7 +1180,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "flowShape":{
-        "id":"df3dbb681d474ed1b9eccbbd4e8fda81",
+        "id":"899ccde2445548daa814682e1d29892c",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1038,7 +1246,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "treeNodeObject":{
-        "id":"857a8dbaa26f4035a1d3bc3424440796",
+        "id":"ce3a8280fac5489897b61cfb9c43b14e",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1097,7 +1305,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "button":{
-        "id":"ab7f24e6738740628f1f9273bacd188b",
+        "id":"57581d35c4ae41d6a1f6a09e191f7f71",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1156,7 +1364,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "imageMapRegion":{
-        "id":"e3349970ec8d4dd8b0ec7a7b56cf68b5",
+        "id":"dfcfda44db8b4fbca893b42834224986",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1215,7 +1423,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "inlineFrame":{
-        "id":"4b3b388103ed41f782f8445852f8a9aa",
+        "id":"5eac6b12433843bda6d5d026e962cc48",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1274,7 +1482,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "dynamicPanel":{
-        "id":"6daca8990dc048208c219a471ae722e4",
+        "id":"8707bf83688444cda0bfd19a6ff3a5bc",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1333,7 +1541,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "referenceDiagramObject":{
-        "id":"fbfc163ce9d944c7ac16d5260b9f62fe",
+        "id":"17ede25e1fa9464e9bbd5ffa60e77546",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1392,7 +1600,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "repeater":{
-        "id":"31f14e778cb84f808518c606c3ea97aa",
+        "id":"7ad02e13220848bf9af77c73f76123ed",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1451,7 +1659,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "table":{
-        "id":"635a23196d0a46bb8bc7f4103c0bc425",
+        "id":"b12dfb9e142b44fe89bd673320bf4c62",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1510,7 +1718,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "tableCell":{
-        "id":"a8a75e905d2f4e40bb45480e5750c8de",
+        "id":"0630b78fabb041408e25b862fe3ed139",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1569,7 +1777,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "menuObject":{
-        "id":"73baf5904b464aaf80dc84a62a4575d3",
+        "id":"76e88c5b52444ccd915c9a6ba34a41a6",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1628,7 +1836,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "horizontalLine":{
-        "id":"4d9c9cd1604d4ca891ed068c8b293fdb",
+        "id":"63292a7287c34ff9a53ec3e9d745662a",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1687,7 +1895,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "verticalLine":{
-        "id":"4f4f37b844b84ea39ffb497c07bf0cb3",
+        "id":"d300c5bef0844376af3798d8b209db6b",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
@@ -1746,7 +1954,7 @@
             "b":0,
             "a":0.349019607843137}}},
       "connector":{
-        "id":"a1da324502b84b1aba4a76314c6af128",
+        "id":"cf5f12832f504141b35258e5bf4bab43",
         "fontName":"'Arial Normal', 'Arial'",
         "fontSize":"13px",
         "fontWeight":"400",
